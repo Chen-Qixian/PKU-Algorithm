@@ -45,10 +45,13 @@
   - 合唱队形 - AC（前后LIS）
   - Huffman's greed - 不会，背下来
 - 网络流
-  - Dining
+  - Dining（N） - AC
+  - PIGS - AC 模板
+  - Secret milking machine - AC
+  - Sight seeing tour
+  - Friendship
   - Destroying the bus stations
   - March of the Penguins
-  - PIGS
 
 ## 题目代码列表
 
@@ -68,7 +71,8 @@
   - TLE - AC
 - 7 - BUY LOW, BUY LOWER
   - AC
-- 8 - Huffman's Greed（？） - 8
+- 8 - Huffman's Greed
+  - AC - 不会 背下来
 - 9 - Piggy-Bank
   - AC
 - 10 - Anniversary party
@@ -99,6 +103,7 @@
 - 23 - The Unique MST
   - AC
 - 24 - 文本二叉树
+  - AC
 - 25 - 装箱子
   - AC
 - 26 - radar installation

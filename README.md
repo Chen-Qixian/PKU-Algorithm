@@ -7,7 +7,7 @@
 - 水
   - 密码 - AC （注意循环次数）
   - 扩号匹配问题 - AC
-  - 文本二叉树
+  - 文本二叉树 - AC 注意建树方法
 - DFS
   - 棋盘问题 - AC
   - 滑雪 - AC
@@ -43,6 +43,7 @@
   - Anniversary party - AC（树形DP 建树）
   - 股票买卖 - AC（买卖2次dp）
   - 合唱队形 - AC（前后LIS）
+  - Huffman's greed - 不会，背下来
 - 网络流
   - Dining
   - Destroying the bus stations

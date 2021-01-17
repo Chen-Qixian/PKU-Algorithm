@@ -1,4 +1,8 @@
-# 算法复习提纲
+# PKU 算法考试复习
+
+为了算法期末考试！冲！！！
+
+## 算法复习提纲
 
 - 水
   - 密码 - AC （注意循环次数）
@@ -39,60 +43,73 @@
   - Anniversary party - AC（树形DP 建树）
   - 股票买卖 - AC（买卖2次dp）
   - 合唱队形 - AC（前后LIS）
-  - 
 - 网络流
   - Dining
   - Destroying the bus stations
   - March of the Penguins
   - PIGS
 
-## 重要题目
+## 题目代码列表
 
-- 棋盘问题
+- 0 - 棋盘问题
   - AC
-- Sorting It All Out
+- 1 - Sorting It All Out
   - AC
-- Gone Fishing
+- 2 - Gone Fishing
   - AC
-- Ultra-QuickSort
+- 3 - Ultra-QuickSort
   - AC
-- The Triangle
+- 4 - The Triangle
   - AC
-- 滑雪
+- 5 - 滑雪
   - AC
-- To the Max
+- 6 - To the Max
   - TLE - AC
-- BUY LOW, BUY LOWER
+- 7 - BUY LOW, BUY LOWER
   - AC
-- Huffman's Greed（？） - 8
-- Piggy-Bank
+- 8 - Huffman's Greed（？） - 8
+- 9 - Piggy-Bank
   - AC
-- Anniversary party
+- 10 - Anniversary party
   - AC
-- 重要逆序对
+- 11 - 重要逆序对
   - AC
-- 股票买卖
+- 12 - 股票买卖
   - AC
-- Dungeon Master
+- 13 - Dungeon Master
   - AC
-- 密码
+- 14 - 密码
   - AC
-- 合唱队形
+- 15 - 合唱队形
   - AC
-- 最大子矩阵
+- 16 - 最大子矩阵
   - AC - 同 To the max
-- 棋盘分割 （H）
-- 晶矿的个数
+- 17 - 棋盘分割 （H）
+- 18 - 晶矿的个数
   - AC
-- 扩号匹配问题
+- 19 - 扩号匹配问题
   - AC
-- Invitation Cards（H）
+- 20 - Invitation Cards（H）
   - AC ！
-- Truck History
+- 21 - Truck History
   - AC
-- 仙岛求药
+- 22 - 仙岛求药
   - AC
-- The Unique MST
+- 23 - The Unique MST
   - AC
-- 文本二叉树
+- 24 - 文本二叉树
+- 25 - 装箱子
+  - AC
+- 26 - radar installation
+  - AC
+- 27 - Power of Cyprotography
+  - AC
+- 28 - Cleaning shifts
+  - AC
+- 29 - Yogurt Factory
+  - AC
+- 30 - Y2K accounting bug
+  - AC
+- 31 - Is it a tree
+  - AC
 

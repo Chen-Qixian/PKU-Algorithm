@@ -25,6 +25,8 @@
   - Gone Fishing - AC
 - 并查集
   - Is it a tree? - AC
+  - wireless network - AC
+  - 食物链 - AC
 - 拓扑排序
   - Sorting It All Out - AC
 - 最小生成树
@@ -48,7 +50,8 @@
   - Dining（N） - AC
   - PIGS - AC 模板
   - Secret milking machine - AC
-  - Sight seeing tour
+  - Optimal Milking - AC
+  - Sorting Slides
   - Friendship
   - Destroying the bus stations
   - March of the Penguins
